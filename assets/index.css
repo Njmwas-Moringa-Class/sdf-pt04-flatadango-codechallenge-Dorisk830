@@ -53,3 +53,9 @@ img {
 #film-info {
   padding-bottom: 15px;
 }
+
+.inactive {
+  background-color: #888; 
+}
+
+
